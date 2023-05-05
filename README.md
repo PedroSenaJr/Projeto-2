@@ -12,3 +12,6 @@ Sistema para Gerenciamento de Membros de Igrejas ou Outros Organizações que po
 Cada de Membros, Edição: Nome, Telefone, Endereço, Datas, Foto etc.
 Lançamentos de Tesouraria: Entradas, Saídas, Histórico.
 Gerar Documentos PDF, conforme cada Membro ou Documentos em Branco para preenchimento Manual.
+
+
+Parceria: https://github.com/RafaelCamurca
