@@ -1,4 +1,4 @@
-# Projeto-2
+# Sistema de gerenciamento de Igrejas
 
 UNDER DEVELOPMENT ---- EM DESENVOLVIMENTO
 
